@@ -50,7 +50,7 @@ services:
   my-react-app:
     build: ./my-react-app
     ports:
-      - "3001:3000"
+      - "3001:3001"
     networks:
       - my-network
 

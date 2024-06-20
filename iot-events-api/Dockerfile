@@ -1,4 +1,4 @@
-# Usar a imagem base do Node.js
+# Dockerfile para API Express
 FROM node:14
 
 # Definir o diretório de trabalho dentro do container
